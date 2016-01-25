@@ -1,5 +1,11 @@
-# Submissions
-Assignment A Create a series of 3 sketches that resemble one work of each of the following artists: 
+#Cheng-Williams Ffion Alison
+#14302
+#Music Technology - Electro Sounds (Processing)
+
+
+
+ #Submissions
+25/1/15 (Assignment A) Create a series of 3 sketches that resemble one work of each of the following artists: 
 Frieder Nake, Sol Lewitt, Ryoji Ikeda. (naming convention, sketch size is 960x540, include image in data folder)
 
 This folder consists of 3 sketches "inspired" by:
